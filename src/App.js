@@ -11,7 +11,7 @@ function App() {
        <Routes>
         <Route path='/' element={<Tasks />} />
       </Routes>
-      <Tasks />
+      {/* <Tasks /> */}
     </div>
   );
 }
